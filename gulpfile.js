@@ -27,20 +27,7 @@ gulp.task('common-js', function() {
 
 gulp.task('js', ['common-js'], function() {
 	return gulp.src([
-		'app/libs/jquery/dist/jquery.min.js',
-		'app/libs/fancybox-master/dist/jquery.fancybox.min.js',
-        'app/libs/mmenu/jquery.mmenu.all.js',
-		// 'app/libs/mmenu/addons/pagescroll/jquery.mmenu.pagescroll.js',
-        'app/libs/fotorama-4.6.4/fotorama.js', 
-        'app/js/jquery.maskedinput.min.js',
-		'app/libs/Slick-slider/slick.min.js',
-		'app/libs/jQueryFormStyler-master/dist/jquery.formstyler.min.js',
-		'app/libs/air-datepicker/dist/js/datepicker.min.js',
-		//'app/libs/jquery-ui-1.12.1.custom/jquery-ui.min.js',
-		// 'app/libs/Datetimepicker/datepicker-ru.js',
-		// 'app/libs/bootstrap-material-datetimepicker-gh-pages/js/moment-with-locales.min.js',
-		// 'app/libs/bootstrap-material-datetimepicker-gh-pages/js/bootstrap-material-datetimepicker.js',
-		//'app/js/common.min.js', // Всегда в конце
+
 		])
 	.pipe(concat('scripts.min.js'))
 	// .pipe(uglify()) // Минимизировать весь js (на выбор)
