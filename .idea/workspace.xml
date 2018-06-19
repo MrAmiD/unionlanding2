@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d4d3dbb-f277-4185-8481-0ccfe0eb9775" name="Default" comment="исправить баги в ie">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/auditBg.png" afterPath="$PROJECT_DIR$/app/img/auditBg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/bgDym.png" afterPath="$PROJECT_DIR$/app/img/bgDym.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dodik.png" afterPath="$PROJECT_DIR$/app/img/dodik.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/flagBg.png" afterPath="$PROJECT_DIR$/app/img/flagBg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/leftLenta.png" afterPath="$PROJECT_DIR$/app/img/leftLenta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/mayaAva.png" afterPath="$PROJECT_DIR$/app/img/mayaAva.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/money.png" afterPath="$PROJECT_DIR$/app/img/money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/moreBg.png" afterPath="$PROJECT_DIR$/app/img/moreBg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/proof1.png" afterPath="$PROJECT_DIR$/app/img/proof1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/proof2.png" afterPath="$PROJECT_DIR$/app/img/proof2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/proof3.png" afterPath="$PROJECT_DIR$/app/img/proof3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/rightLenta.png" afterPath="$PROJECT_DIR$/app/img/rightLenta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/shlem.png" afterPath="$PROJECT_DIR$/app/img/shlem.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/slider.jpg" afterPath="$PROJECT_DIR$/app/img/slider.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/slider2.jpg" afterPath="$PROJECT_DIR$/app/img/slider2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/slider3.jpg" afterPath="$PROJECT_DIR$/app/img/slider3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/startBg.png" afterPath="$PROJECT_DIR$/app/img/startBg.png" />
+    <list default="true" id="1d4d3dbb-f277-4185-8481-0ccfe0eb9775" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.min.css" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_fonts.sass" afterPath="$PROJECT_DIR$/app/sass/_fonts.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.sass" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -60,7 +44,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="223">
@@ -84,11 +68,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_fonts.sass" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_fonts.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="44">
-                  <caret line="2" column="23" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="23" />
+                <state relative-caret-position="176">
+                  <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -97,8 +81,8 @@
           <file leaf-file-name="_font-face.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_mixins/_font-face.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+                <state relative-caret-position="264">
+                  <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -117,8 +101,8 @@
           <file leaf-file-name="_libs.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="22">
-                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <state relative-caret-position="66">
+                  <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -131,8 +115,18 @@
           <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="196" column="19" selection-start-line="196" selection-start-column="19" selection-end-line="196" selection-end-column="19" />
+                <state relative-caret-position="410">
+                  <caret line="493" column="1" selection-start-line="493" selection-start-column="1" selection-end-line="493" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.min.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/css/main.min.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-3049">
+                  <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
@@ -198,7 +192,6 @@
         <option value="$PROJECT_DIR$/app/complectacia.html" />
         <option value="$PROJECT_DIR$/app/mainPage.html" />
         <option value="$PROJECT_DIR$/app/libs/vue/calcModel.js" />
-        <option value="$PROJECT_DIR$/app/sass/_fonts.sass" />
         <option value="$PROJECT_DIR$/app/libs/jquery/dist/jquery.min.js" />
         <option value="$PROJECT_DIR$/app/js/common.js" />
         <option value="$PROJECT_DIR$/app/sass/_media.sass" />
@@ -207,6 +200,7 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/app/sass/_libs.sass" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/_fonts.sass" />
         <option value="$PROJECT_DIR$/app/sass/main.sass" />
       </list>
     </option>
@@ -326,6 +320,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -430,7 +466,7 @@
       <workItem from="1525757415928" duration="406000" />
       <workItem from="1527852164996" duration="181000" />
       <workItem from="1529311956833" duration="17499000" />
-      <workItem from="1529377836819" duration="580000" />
+      <workItem from="1529377836819" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="layouts typeless">
       <created>1507611710743</created>
@@ -523,11 +559,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529329468796</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Поправил баги  в ie, ужал картинки">
+      <created>1529378445564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1529378445564</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347003000" />
+    <option name="totallyTimeSpent" value="347394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -539,11 +582,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14925373" sideWeight="0.5957162" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14925373" sideWeight="0.4042838" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14925373" sideWeight="0.5957162" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14925373" sideWeight="0.4042838" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19300225" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -589,7 +632,8 @@
     <MESSAGE value="mobile menu bagfix" />
     <MESSAGE value="jquery update" />
     <MESSAGE value="исправить баги в ie" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправить баги в ie" />
+    <MESSAGE value="Поправил баги  в ie, ужал картинки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поправил баги  в ie, ужал картинки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -924,13 +968,6 @@
     <entry file="file://$PROJECT_DIR$/app/complectacia.html" />
     <entry file="file://$PROJECT_DIR$/app/mainPage.html" />
     <entry file="file://$PROJECT_DIR$/app/libs/vue/calcModel.js" />
-    <entry file="file://$PROJECT_DIR$/app/css/main.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="36" selection-start-line="11" selection-start-column="38527" selection-end-line="11" selection-end-column="38536" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/libs/jquery/dist/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="809">
@@ -970,46 +1007,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/_mixins/_font-face.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="196" column="19" selection-start-line="196" selection-start-column="19" selection-end-line="196" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -1029,6 +1026,54 @@
             <marker date="1529328852916" expanded="true" signature="1285:1344" ph="..." />
             <marker date="1529328852916" expanded="true" signature="1291:1335" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_mixins/_font-face.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3049">
+          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="493" column="1" selection-start-line="493" selection-start-column="1" selection-end-line="493" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
